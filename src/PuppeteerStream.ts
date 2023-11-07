@@ -99,6 +99,7 @@ export type BrowserMimeType =
 	| "video/WEBM;codecs=VP8,OPUS"
 	| "video/webm;codecs=vp9,opus"
 	| "video/webm;codecs=vp8,vp9,opus"
+	| "video/webm;codecs=h264"
 	| "audio/webm"
 	| "audio/webm;codecs=opus"
 	| "audio/webm;codecs=pcm";
